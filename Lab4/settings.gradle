@@ -1,0 +1,4 @@
+rootProject.name='ViewPage'
+include ':app'
+include ':dynamicfragments'
+include ':viewpage'

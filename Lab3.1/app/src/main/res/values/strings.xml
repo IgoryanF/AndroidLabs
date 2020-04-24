@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView Example</string>
+    <string name="transition_product_card_string">Transition product</string>
+    <string name="details">Details</string>
+</resources>
